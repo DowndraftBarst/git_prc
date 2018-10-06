@@ -1,3 +1,4 @@
+//初期化
 var card = [];
 
 var iniv = 1;
